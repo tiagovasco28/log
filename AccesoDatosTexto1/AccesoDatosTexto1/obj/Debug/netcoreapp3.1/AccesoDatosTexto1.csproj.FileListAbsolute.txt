@@ -1,0 +1,23 @@
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\bin\Debug\netcoreapp3.1\AccesoDatosTexto1.exe
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\bin\Debug\netcoreapp3.1\AccesoDatosTexto1.deps.json
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\bin\Debug\netcoreapp3.1\AccesoDatosTexto1.runtimeconfig.json
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\bin\Debug\netcoreapp3.1\AccesoDatosTexto1.runtimeconfig.dev.json
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\bin\Debug\netcoreapp3.1\AccesoDatosTexto1.dll
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\bin\Debug\netcoreapp3.1\AccesoDatosTexto1.pdb
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.csprojAssemblyReference.cache
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.Properties.Resources.resources
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.csproj.GenerateResource.cache
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.AssemblyInfoInputs.cache
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.AssemblyInfo.cs
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.csproj.CoreCompileInputs.cache
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.dll
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.pdb
+E:\SEGUNDO IFP\ACCESO A DATOS\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.genruntimeconfig.cache
+E:\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.csprojAssemblyReference.cache
+E:\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.Properties.Resources.resources
+E:\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.csproj.GenerateResource.cache
+E:\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.AssemblyInfoInputs.cache
+E:\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.AssemblyInfo.cs
+E:\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.csproj.CoreCompileInputs.cache
+E:\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.dll
+E:\AccesoDatosTexto1\AccesoDatosTexto1\obj\Debug\netcoreapp3.1\AccesoDatosTexto1.pdb
